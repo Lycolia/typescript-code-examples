@@ -1,4 +1,8 @@
-| example                                        | 解説記事                                                                                           |
+# TypeScriptコードのサンプルコード集
+
+以下はブログ記事とディレクトリの紐づけ
+
+| example                                        | ブログ記事                                                                                         |
 | ---------------------------------------------- | -------------------------------------------------------------------------------------------------- |
 | jest-spyon-pattern-swc-ts                      | [TypeScript + SWC + Jestでexport方法別のspyOnするパターンを書いた](https://blog.lycolia.info/0153) |
 | mocking-base-class-with-extension-class-swc-ts | [TypeScript + SWC + Jestで親classをモックする方法](https://blog.lycolia.info/0298)                 |
