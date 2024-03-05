@@ -1,0 +1,14 @@
+name: example
+description: custom actions example
+inputs:
+  GITHUB_TOKEN:
+    description: 'Repogitory GITHUB_TOKEN'
+    required: true
+outputs:
+  RESULT_MESSAGE:
+    description: 'Result message'
+on:
+  workflow_call:
+runs:
+  using: node16
+  main: dist/index.js
